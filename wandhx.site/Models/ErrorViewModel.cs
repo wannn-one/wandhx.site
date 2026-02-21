@@ -1,4 +1,4 @@
-namespace wandhx.site.Models
+namespace WandhxSite.Models
 {
     public class ErrorViewModel
     {

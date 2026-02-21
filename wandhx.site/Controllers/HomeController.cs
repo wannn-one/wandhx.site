@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using wandhx.site.Models;
+using WandhxSite.Models;
 
-namespace wandhx.site.Controllers
+namespace WandhxSite.Controllers
 {
     public class HomeController : Controller
     {
